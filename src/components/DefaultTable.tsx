@@ -16,7 +16,7 @@ export const DefaultTable = ({ headers, data }: any) => {
         display: "flex",
         width: "100%",
         overflow: "hidden",
-        marginTop: "5px",
+        marginTop: "6px",
       }}
     >
       <TableContainer
